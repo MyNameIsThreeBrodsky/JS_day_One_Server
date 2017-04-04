@@ -1,0 +1,21 @@
+{
+  "name": "serverproject",
+  "version": "1.0.0",
+  "description": "First Server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MyNameIsThreeBrodsky/JS_day_One_Server.git"
+  },
+  "author": "Three Brodsky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MyNameIsThreeBrodsky/JS_day_One_Server/issues"
+  },
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
